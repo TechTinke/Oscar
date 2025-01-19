@@ -42,14 +42,14 @@ section h2 {
     color: #333;
 }
 
-.images {
+img {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 10px;
     margin-bottom: 20px;
 }
 
-.images img {
+img {
     width: 100%;
     height: auto;
     border-radius: 5px;
