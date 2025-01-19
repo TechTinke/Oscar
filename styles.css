@@ -54,6 +54,10 @@ img {
     height: auto;
     border-radius: 5px;
 }
+section {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 section p {
     text-align: justify;
